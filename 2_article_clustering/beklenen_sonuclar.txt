@@ -1,0 +1,16 @@
+Beklenen Sonuçlar:
+
+datafile-0.txt -> tıp
+datafile-1.txt -> tarih
+datafile-2.txt -> tarih
+datafile-3.txt -> tıp
+datafile-4.txt -> tıp
+datafile-5.txt -> tıp
+datafile-6.txt -> tıp
+datafile-7.txt -> tarih
+datafile-8.txt -> tarih
+datafile-9.txt -> tarih
+
+
+Bütün sonuçlar doğru bir şekilde elde edilmiştir.
+Başarı Oranı %100
